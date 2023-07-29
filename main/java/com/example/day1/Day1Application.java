@@ -23,6 +23,7 @@ public class Day1Application {
 		System.out.println(b1.sayHi()); // 1 =
 		HelloSpring b2 = context.getBean(HelloSpring.class);
 		System.out.println(b2.sayHi()); // 2 =
+		System.out.println("Hello World For July-2023 1234");
 	}
 
 }
